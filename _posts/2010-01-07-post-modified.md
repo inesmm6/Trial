@@ -10,7 +10,8 @@ tags:
 ---
 
 Añado prueba tildes
-Ines Martinez
+Inés Martínez
+Y la ñ también
 
 This post has been updated and should show a modified date if used in a layout.
 
