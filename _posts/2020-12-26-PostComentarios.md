@@ -1,0 +1,1 @@
+En este post voy a ir añadiendo los pasos que sigo para incorporar comentarios al blog. Si lo consigo intentaré repetirlos en un fork del blog actual y si ahí también funciona...ya podemos pasarlos al blog real!
